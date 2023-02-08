@@ -1,0 +1,10 @@
+1. Admin Input 
+
+[
+    {
+        "mobileNo": 8086808680,
+        "name": "Admin",
+        "emailId": "admin@axis.com",
+        "password": "Admin@8086"
+    }
+]
